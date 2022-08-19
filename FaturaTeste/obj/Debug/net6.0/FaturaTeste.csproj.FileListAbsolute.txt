@@ -1,0 +1,15 @@
+C:\Users\vitor\Documents\cshap\atividade faculdade\FaturaTeste\bin\Debug\net6.0\FaturaTeste.exe
+C:\Users\vitor\Documents\cshap\atividade faculdade\FaturaTeste\bin\Debug\net6.0\FaturaTeste.deps.json
+C:\Users\vitor\Documents\cshap\atividade faculdade\FaturaTeste\bin\Debug\net6.0\FaturaTeste.runtimeconfig.json
+C:\Users\vitor\Documents\cshap\atividade faculdade\FaturaTeste\bin\Debug\net6.0\FaturaTeste.dll
+C:\Users\vitor\Documents\cshap\atividade faculdade\FaturaTeste\bin\Debug\net6.0\FaturaTeste.pdb
+C:\Users\vitor\Documents\cshap\atividade faculdade\FaturaTeste\obj\Debug\net6.0\FaturaTeste.csproj.AssemblyReference.cache
+C:\Users\vitor\Documents\cshap\atividade faculdade\FaturaTeste\obj\Debug\net6.0\FaturaTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Documents\cshap\atividade faculdade\FaturaTeste\obj\Debug\net6.0\FaturaTeste.AssemblyInfoInputs.cache
+C:\Users\vitor\Documents\cshap\atividade faculdade\FaturaTeste\obj\Debug\net6.0\FaturaTeste.AssemblyInfo.cs
+C:\Users\vitor\Documents\cshap\atividade faculdade\FaturaTeste\obj\Debug\net6.0\FaturaTeste.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\cshap\atividade faculdade\FaturaTeste\obj\Debug\net6.0\FaturaTeste.dll
+C:\Users\vitor\Documents\cshap\atividade faculdade\FaturaTeste\obj\Debug\net6.0\refint\FaturaTeste.dll
+C:\Users\vitor\Documents\cshap\atividade faculdade\FaturaTeste\obj\Debug\net6.0\FaturaTeste.pdb
+C:\Users\vitor\Documents\cshap\atividade faculdade\FaturaTeste\obj\Debug\net6.0\FaturaTeste.genruntimeconfig.cache
+C:\Users\vitor\Documents\cshap\atividade faculdade\FaturaTeste\obj\Debug\net6.0\ref\FaturaTeste.dll
