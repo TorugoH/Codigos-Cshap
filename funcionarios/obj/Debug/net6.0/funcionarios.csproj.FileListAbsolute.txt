@@ -1,0 +1,15 @@
+C:\Users\vitor\Documents\GitHub\Codigos-Cshap\funcionarios\bin\Debug\net6.0\funcionarios.exe
+C:\Users\vitor\Documents\GitHub\Codigos-Cshap\funcionarios\bin\Debug\net6.0\funcionarios.deps.json
+C:\Users\vitor\Documents\GitHub\Codigos-Cshap\funcionarios\bin\Debug\net6.0\funcionarios.runtimeconfig.json
+C:\Users\vitor\Documents\GitHub\Codigos-Cshap\funcionarios\bin\Debug\net6.0\funcionarios.dll
+C:\Users\vitor\Documents\GitHub\Codigos-Cshap\funcionarios\bin\Debug\net6.0\funcionarios.pdb
+C:\Users\vitor\Documents\GitHub\Codigos-Cshap\funcionarios\obj\Debug\net6.0\funcionarios.csproj.AssemblyReference.cache
+C:\Users\vitor\Documents\GitHub\Codigos-Cshap\funcionarios\obj\Debug\net6.0\funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Documents\GitHub\Codigos-Cshap\funcionarios\obj\Debug\net6.0\funcionarios.AssemblyInfoInputs.cache
+C:\Users\vitor\Documents\GitHub\Codigos-Cshap\funcionarios\obj\Debug\net6.0\funcionarios.AssemblyInfo.cs
+C:\Users\vitor\Documents\GitHub\Codigos-Cshap\funcionarios\obj\Debug\net6.0\funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\GitHub\Codigos-Cshap\funcionarios\obj\Debug\net6.0\funcionarios.dll
+C:\Users\vitor\Documents\GitHub\Codigos-Cshap\funcionarios\obj\Debug\net6.0\refint\funcionarios.dll
+C:\Users\vitor\Documents\GitHub\Codigos-Cshap\funcionarios\obj\Debug\net6.0\funcionarios.pdb
+C:\Users\vitor\Documents\GitHub\Codigos-Cshap\funcionarios\obj\Debug\net6.0\funcionarios.genruntimeconfig.cache
+C:\Users\vitor\Documents\GitHub\Codigos-Cshap\funcionarios\obj\Debug\net6.0\ref\funcionarios.dll
